@@ -12,6 +12,7 @@ from nltk.corpus import stopwords
 from nltk.probability import FreqDist
 import collections
 from collections import OrderedDict
+from matplotlib import pyplot as plt
 
 def textmetrics():
 
